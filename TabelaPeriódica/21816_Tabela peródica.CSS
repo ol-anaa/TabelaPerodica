@@ -1,0 +1,76 @@
+Td {
+    text-align:center;
+    width: 50px;
+    height: 50px;
+}
+Th{
+    text-align:center;
+    width: 1pc;
+    height: 30px;
+}
+.nome{
+    font-size: 70%;
+}
+.número_1{
+    font-weight: bold; color: rgb(108, 154, 253);
+}
+
+.simbolo{ 
+    font-weight: bold;
+}
+.número{
+    font-size: 90%;
+}
+.M_transicao{
+    background-color: rgb(252, 176, 201);
+}
+.M_Alca{
+    background-color: rgb(253, 154, 5);
+}
+.M_Alcaterra{
+    background-color: rgb(240, 240, 14);
+}
+.M_repre{
+    background-color: rgb(171, 187, 202);
+}
+.Semi_M{
+    background-color: rgb(79, 204, 135);
+}
+.Halogênio{
+    background-color: rgb(21, 253, 253);
+}
+.Gas_nob{
+    background-color: rgb(108, 154, 253);
+}
+.N_Met{
+    background-color: lime;
+}
+.Simbolo_2 {
+    font-weight: bold; color: red;
+}
+.simbolo_3{
+    font-weight: bold; color: blue;
+}
+.Lantanídeos{
+    background-color: rgb(250, 167, 134);
+}
+.Actinídeos{
+    background-color: rgb(230, 144, 252);
+}
+.Des{
+    font-weight: bold; color: grey;
+
+}
+.Num{  
+    text-align: right;
+    font-weight: bold; 
+    color: dodgerblue;
+
+  
+}
+
+.Num2{
+    font-weight: bold; 
+    color: blue;
+   vertical-align: bottom;
+}
